@@ -39,4 +39,4 @@ A CSV file editor made in java.
 ## Before you leave
 
 Do not forget to let me know if you find any bugs.  
-This is a small project for my, in the next weeks I will add a graphic interface and post a version in C#.
+This is a small project for now in the next weeks I will add a graphic interface and post a version of these tool in C#.
